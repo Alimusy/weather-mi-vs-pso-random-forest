@@ -4,6 +4,12 @@ Rainfall prediction on the Australian weather dataset, used to compare a
 filter-based feature selector (Mutual Information) against a wrapper-based one
 (Particle Swarm Optimization) on the same Random Forest classifier.
 
+## Open it
+
+Feature selection and comparison:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alimusy/weather-mi-vs-pso-random-forest/blob/main/notebooks/weather_forecast_mi_vs_pso.ipynb)
+
 ## Method
 
 1. 16 engineered features, 100,000+ observations, 77/23 class imbalance.
